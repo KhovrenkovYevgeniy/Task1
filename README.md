@@ -1,1 +1,10 @@
-Ховренков Євгеній Ярославович К18-1
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>dneprpet.xyz</title>
+  </head>
+  <body>
+    <p>Ховренков Євгеній Ярославович К18-1</p>
+  </body>
+</html>
